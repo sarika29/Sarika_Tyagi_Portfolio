@@ -24,7 +24,7 @@ body{
 
 header{
     background:var(--dark);
-    height: 500px;
+    
 }
 
 .container{
@@ -50,4 +50,7 @@ header nav{
 }
 header nav .branding{
     margin-right: 3rem;
+}
+.hero .left img{
+    widows: 400px;
 }
