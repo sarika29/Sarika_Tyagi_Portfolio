@@ -92,3 +92,23 @@ section{
     padding:6rem 0;
 }
 
+section.about .about-me-img{
+    height:450px;
+}
+
+section.about h1{
+    margin-bottom: 1rem;
+    font-size: 1.6rem;
+    font-weight: 400;
+}
+
+section.about h1 span{
+    color:var(--primary);
+}
+
+section.about h3{
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+
